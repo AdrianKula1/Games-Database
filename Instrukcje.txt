@@ -1,0 +1,10 @@
+Należy najpierw uruchomić serwer, zamknąć okno powiadomienia a następnie klienta.
+
+Pierwsze dwie gry są tworzone i zapisywane w bazie danych
+
+Aby dodać grę wystarczy kliknąć odpowiedni przycisk i uzupełnić dane
+
+Aby usunąć grę, trzeba zaznaczyć jej nazwę i kliknąć odpowiedni przycisk
+
+Aby zmodyfikować informację inną niż nazwa gry, trzeba rozwinąć jedną z gier, rozwinąć napis z elementem który chce się zmodyfikować, zaznaczyć pokazany element i wtedy wcisnąć przycisk modyfikacji
+Aby zmodyfikować nazwę gry, trzeba kliknąć tę nazwę a następnie przycisk modyfikacji
