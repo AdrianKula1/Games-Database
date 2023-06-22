@@ -25,7 +25,7 @@ class messageWindow(QWidget):
         QMessageBox.information(self, "", "Serwer wystartował. Proszę otworzyć klienta", QMessageBox.Ok)
 
 
-class MyStruct(NamedTuple):
+class GameStruct(NamedTuple):
     name = str
     cover = str
     manufacturer = str
